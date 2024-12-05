@@ -17,5 +17,7 @@ namespace KeyStoreAPI_00016332.Models
         [Required]
         public string Email { get; set; }
 
+        public ICollection<KeyStore> keyStores { get; set; }
+
     }
 }
