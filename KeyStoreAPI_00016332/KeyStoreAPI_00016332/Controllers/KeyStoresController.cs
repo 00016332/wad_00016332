@@ -18,6 +18,7 @@ namespace KeyStoreAPI_00016332.Controllers
     [ApiController]
     public class KeyStoresController : ControllerBase
     {
+        // 00016332
         private readonly IRepository<KeyStore> _keyStoreRepository;
         private readonly IMapper _mapper;
 
@@ -65,6 +66,7 @@ namespace KeyStoreAPI_00016332.Controllers
         {
             if (id != keyStoreDto.Id)
             {
+                System.Console.WriteLine(id);
                 return BadRequest();
             }
 

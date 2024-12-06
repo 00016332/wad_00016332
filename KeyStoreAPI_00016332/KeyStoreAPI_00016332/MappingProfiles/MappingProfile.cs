@@ -8,6 +8,7 @@ namespace KeyStoreAPI_00016332.MappingProfiles
     {
         public MappingProfile()
         {
+            // Map Dto to Model and Model to Dto
             CreateMap<KeyStoreDto, KeyStore>().ReverseMap();
             CreateMap<UserDto, User>().ReverseMap();
         }

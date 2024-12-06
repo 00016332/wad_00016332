@@ -4,6 +4,7 @@ namespace KeyStoreAPI_00016332.Models
 {
     public class KeyStore
     {
+        // 00016332
         public int Id { get; set; }
         [Required]
         public string KeyName { get; set; }
