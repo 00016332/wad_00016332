@@ -1,41 +1,73 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Bobur\\source\\repos\\KeyStoreAPI_00016332\\",
+  "WorkspaceRootPath": "C:\\Users\\Bobur\\Desktop\\WebDev CW\\00016332\\wad_00016332\\KeyStoreAPI_00016332\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{45C403BB-7D6B-4320-AA26-A14D14642DD0}|KeyStoreAPI_00016332\\KeyStoreAPI_00016332.csproj|c:\\users\\bobur\\source\\repos\\keystoreapi_00016332\\keystoreapi_00016332\\controllers\\keystorescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{45C403BB-7D6B-4320-AA26-A14D14642DD0}|KeyStoreAPI_00016332\\KeyStoreAPI_00016332.csproj|c:\\users\\bobur\\desktop\\webdev cw\\00016332\\wad_00016332\\keystoreapi_00016332\\keystoreapi_00016332\\controllers\\keystorescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{45C403BB-7D6B-4320-AA26-A14D14642DD0}|KeyStoreAPI_00016332\\KeyStoreAPI_00016332.csproj|solutionrelative:keystoreapi_00016332\\controllers\\keystorescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{45C403BB-7D6B-4320-AA26-A14D14642DD0}|KeyStoreAPI_00016332\\KeyStoreAPI_00016332.csproj|c:\\users\\bobur\\source\\repos\\keystoreapi_00016332\\keystoreapi_00016332\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{45C403BB-7D6B-4320-AA26-A14D14642DD0}|KeyStoreAPI_00016332\\KeyStoreAPI_00016332.csproj|solutionrelative:keystoreapi_00016332\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{45C403BB-7D6B-4320-AA26-A14D14642DD0}|KeyStoreAPI_00016332\\KeyStoreAPI_00016332.csproj|c:\\users\\bobur\\desktop\\webdev cw\\00016332\\wad_00016332\\keystoreapi_00016332\\keystoreapi_00016332\\keystoreapi_00016332.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{45C403BB-7D6B-4320-AA26-A14D14642DD0}|KeyStoreAPI_00016332\\KeyStoreAPI_00016332.csproj|solutionrelative:keystoreapi_00016332\\keystoreapi_00016332.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{45C403BB-7D6B-4320-AA26-A14D14642DD0}|KeyStoreAPI_00016332\\KeyStoreAPI_00016332.csproj|c:\\users\\bobur\\source\\repos\\keystoreapi_00016332\\keystoreapi_00016332\\models\\keystore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{45C403BB-7D6B-4320-AA26-A14D14642DD0}|KeyStoreAPI_00016332\\KeyStoreAPI_00016332.csproj|solutionrelative:keystoreapi_00016332\\models\\keystore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{45C403BB-7D6B-4320-AA26-A14D14642DD0}|KeyStoreAPI_00016332\\KeyStoreAPI_00016332.csproj|c:\\users\\bobur\\source\\repos\\keystoreapi_00016332\\keystoreapi_00016332\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{45C403BB-7D6B-4320-AA26-A14D14642DD0}|KeyStoreAPI_00016332\\KeyStoreAPI_00016332.csproj|c:\\users\\bobur\\desktop\\webdev cw\\00016332\\wad_00016332\\keystoreapi_00016332\\keystoreapi_00016332\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{45C403BB-7D6B-4320-AA26-A14D14642DD0}|KeyStoreAPI_00016332\\KeyStoreAPI_00016332.csproj|solutionrelative:keystoreapi_00016332\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{45C403BB-7D6B-4320-AA26-A14D14642DD0}|KeyStoreAPI_00016332\\KeyStoreAPI_00016332.csproj|c:\\users\\bobur\\source\\repos\\keystoreapi_00016332\\keystoreapi_00016332\\migrations\\20241204205700_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{45C403BB-7D6B-4320-AA26-A14D14642DD0}|KeyStoreAPI_00016332\\KeyStoreAPI_00016332.csproj|solutionrelative:keystoreapi_00016332\\migrations\\20241204205700_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{45C403BB-7D6B-4320-AA26-A14D14642DD0}|KeyStoreAPI_00016332\\KeyStoreAPI_00016332.csproj|c:\\users\\bobur\\desktop\\webdev cw\\00016332\\wad_00016332\\keystoreapi_00016332\\keystoreapi_00016332\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45C403BB-7D6B-4320-AA26-A14D14642DD0}|KeyStoreAPI_00016332\\KeyStoreAPI_00016332.csproj|solutionrelative:keystoreapi_00016332\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{45C403BB-7D6B-4320-AA26-A14D14642DD0}|KeyStoreAPI_00016332\\KeyStoreAPI_00016332.csproj|c:\\users\\bobur\\source\\repos\\keystoreapi_00016332\\keystoreapi_00016332\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{45C403BB-7D6B-4320-AA26-A14D14642DD0}|KeyStoreAPI_00016332\\KeyStoreAPI_00016332.csproj|c:\\users\\bobur\\desktop\\webdev cw\\00016332\\wad_00016332\\keystoreapi_00016332\\keystoreapi_00016332\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45C403BB-7D6B-4320-AA26-A14D14642DD0}|KeyStoreAPI_00016332\\KeyStoreAPI_00016332.csproj|solutionrelative:keystoreapi_00016332\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45C403BB-7D6B-4320-AA26-A14D14642DD0}|KeyStoreAPI_00016332\\KeyStoreAPI_00016332.csproj|c:\\users\\bobur\\desktop\\webdev cw\\00016332\\wad_00016332\\keystoreapi_00016332\\keystoreapi_00016332\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{45C403BB-7D6B-4320-AA26-A14D14642DD0}|KeyStoreAPI_00016332\\KeyStoreAPI_00016332.csproj|solutionrelative:keystoreapi_00016332\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{45C403BB-7D6B-4320-AA26-A14D14642DD0}|KeyStoreAPI_00016332\\KeyStoreAPI_00016332.csproj|c:\\users\\bobur\\source\\repos\\keystoreapi_00016332\\keystoreapi_00016332\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{45C403BB-7D6B-4320-AA26-A14D14642DD0}|KeyStoreAPI_00016332\\KeyStoreAPI_00016332.csproj|c:\\users\\bobur\\desktop\\webdev cw\\00016332\\wad_00016332\\keystoreapi_00016332\\keystoreapi_00016332\\keystoreapi_00016332.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{45C403BB-7D6B-4320-AA26-A14D14642DD0}|KeyStoreAPI_00016332\\KeyStoreAPI_00016332.csproj|solutionrelative:keystoreapi_00016332\\keystoreapi_00016332.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45C403BB-7D6B-4320-AA26-A14D14642DD0}|KeyStoreAPI_00016332\\KeyStoreAPI_00016332.csproj|c:\\users\\bobur\\desktop\\webdev cw\\00016332\\wad_00016332\\keystoreapi_00016332\\keystoreapi_00016332\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45C403BB-7D6B-4320-AA26-A14D14642DD0}|KeyStoreAPI_00016332\\KeyStoreAPI_00016332.csproj|solutionrelative:keystoreapi_00016332\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45C403BB-7D6B-4320-AA26-A14D14642DD0}|KeyStoreAPI_00016332\\KeyStoreAPI_00016332.csproj|c:\\users\\bobur\\desktop\\webdev cw\\00016332\\wad_00016332\\keystoreapi_00016332\\keystoreapi_00016332\\models\\keystore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45C403BB-7D6B-4320-AA26-A14D14642DD0}|KeyStoreAPI_00016332\\KeyStoreAPI_00016332.csproj|solutionrelative:keystoreapi_00016332\\models\\keystore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45C403BB-7D6B-4320-AA26-A14D14642DD0}|KeyStoreAPI_00016332\\KeyStoreAPI_00016332.csproj|c:\\users\\bobur\\desktop\\webdev cw\\00016332\\wad_00016332\\keystoreapi_00016332\\keystoreapi_00016332\\repositories\\keystorerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45C403BB-7D6B-4320-AA26-A14D14642DD0}|KeyStoreAPI_00016332\\KeyStoreAPI_00016332.csproj|solutionrelative:keystoreapi_00016332\\repositories\\keystorerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45C403BB-7D6B-4320-AA26-A14D14642DD0}|KeyStoreAPI_00016332\\KeyStoreAPI_00016332.csproj|c:\\users\\bobur\\desktop\\webdev cw\\00016332\\wad_00016332\\keystoreapi_00016332\\keystoreapi_00016332\\repositories\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45C403BB-7D6B-4320-AA26-A14D14642DD0}|KeyStoreAPI_00016332\\KeyStoreAPI_00016332.csproj|solutionrelative:keystoreapi_00016332\\repositories\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45C403BB-7D6B-4320-AA26-A14D14642DD0}|KeyStoreAPI_00016332\\KeyStoreAPI_00016332.csproj|c:\\users\\bobur\\desktop\\webdev cw\\00016332\\wad_00016332\\keystoreapi_00016332\\keystoreapi_00016332\\mappingprofiles\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45C403BB-7D6B-4320-AA26-A14D14642DD0}|KeyStoreAPI_00016332\\KeyStoreAPI_00016332.csproj|solutionrelative:keystoreapi_00016332\\mappingprofiles\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45C403BB-7D6B-4320-AA26-A14D14642DD0}|KeyStoreAPI_00016332\\KeyStoreAPI_00016332.csproj|c:\\users\\bobur\\desktop\\webdev cw\\00016332\\wad_00016332\\keystoreapi_00016332\\keystoreapi_00016332\\dtos\\keystoredto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45C403BB-7D6B-4320-AA26-A14D14642DD0}|KeyStoreAPI_00016332\\KeyStoreAPI_00016332.csproj|solutionrelative:keystoreapi_00016332\\dtos\\keystoredto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45C403BB-7D6B-4320-AA26-A14D14642DD0}|KeyStoreAPI_00016332\\KeyStoreAPI_00016332.csproj|c:\\users\\bobur\\desktop\\webdev cw\\00016332\\wad_00016332\\keystoreapi_00016332\\keystoreapi_00016332\\migrations\\20241204205700_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45C403BB-7D6B-4320-AA26-A14D14642DD0}|KeyStoreAPI_00016332\\KeyStoreAPI_00016332.csproj|solutionrelative:keystoreapi_00016332\\migrations\\20241204205700_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45C403BB-7D6B-4320-AA26-A14D14642DD0}|KeyStoreAPI_00016332\\KeyStoreAPI_00016332.csproj|c:\\users\\bobur\\desktop\\webdev cw\\00016332\\wad_00016332\\keystoreapi_00016332\\keystoreapi_00016332\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{45C403BB-7D6B-4320-AA26-A14D14642DD0}|KeyStoreAPI_00016332\\KeyStoreAPI_00016332.csproj|solutionrelative:keystoreapi_00016332\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{45C403BB-7D6B-4320-AA26-A14D14642DD0}|KeyStoreAPI_00016332\\KeyStoreAPI_00016332.csproj|c:\\users\\bobur\\source\\repos\\keystoreapi_00016332\\keystoreapi_00016332\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{45C403BB-7D6B-4320-AA26-A14D14642DD0}|KeyStoreAPI_00016332\\KeyStoreAPI_00016332.csproj|c:\\users\\bobur\\desktop\\webdev cw\\00016332\\wad_00016332\\keystoreapi_00016332\\keystoreapi_00016332\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{45C403BB-7D6B-4320-AA26-A14D14642DD0}|KeyStoreAPI_00016332\\KeyStoreAPI_00016332.csproj|solutionrelative:keystoreapi_00016332\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{45C403BB-7D6B-4320-AA26-A14D14642DD0}|KeyStoreAPI_00016332\\KeyStoreAPI_00016332.csproj|c:\\users\\bobur\\source\\repos\\keystoreapi_00016332\\keystoreapi_00016332\\data\\generaldbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{45C403BB-7D6B-4320-AA26-A14D14642DD0}|KeyStoreAPI_00016332\\KeyStoreAPI_00016332.csproj|c:\\users\\bobur\\desktop\\webdev cw\\00016332\\wad_00016332\\keystoreapi_00016332\\keystoreapi_00016332\\data\\generaldbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{45C403BB-7D6B-4320-AA26-A14D14642DD0}|KeyStoreAPI_00016332\\KeyStoreAPI_00016332.csproj|solutionrelative:keystoreapi_00016332\\data\\generaldbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -46,66 +78,184 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 6,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "KeyStoreAPI_00016332.http",
+              "DocumentMoniker": "C:\\Users\\Bobur\\Desktop\\WebDev CW\\00016332\\wad_00016332\\KeyStoreAPI_00016332\\KeyStoreAPI_00016332\\KeyStoreAPI_00016332.http",
+              "RelativeDocumentMoniker": "KeyStoreAPI_00016332\\KeyStoreAPI_00016332.http",
+              "ToolTip": "C:\\Users\\Bobur\\Desktop\\WebDev CW\\00016332\\wad_00016332\\KeyStoreAPI_00016332\\KeyStoreAPI_00016332\\KeyStoreAPI_00016332.http",
+              "RelativeToolTip": "KeyStoreAPI_00016332\\KeyStoreAPI_00016332.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-12-06T07:50:34.905Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "KeyStoreAPI_00016332.csproj",
+              "DocumentMoniker": "C:\\Users\\Bobur\\Desktop\\WebDev CW\\00016332\\wad_00016332\\KeyStoreAPI_00016332\\KeyStoreAPI_00016332\\KeyStoreAPI_00016332.csproj",
+              "RelativeDocumentMoniker": "KeyStoreAPI_00016332\\KeyStoreAPI_00016332.csproj",
+              "ToolTip": "C:\\Users\\Bobur\\Desktop\\WebDev CW\\00016332\\wad_00016332\\KeyStoreAPI_00016332\\KeyStoreAPI_00016332\\KeyStoreAPI_00016332.csproj",
+              "RelativeToolTip": "KeyStoreAPI_00016332\\KeyStoreAPI_00016332.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-06T07:26:54.91Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Bobur\\Desktop\\WebDev CW\\00016332\\wad_00016332\\KeyStoreAPI_00016332\\KeyStoreAPI_00016332\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "KeyStoreAPI_00016332\\Repositories\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\Bobur\\Desktop\\WebDev CW\\00016332\\wad_00016332\\KeyStoreAPI_00016332\\KeyStoreAPI_00016332\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "KeyStoreAPI_00016332\\Repositories\\UserRepository.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T21:37:13.395Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Bobur\\Desktop\\WebDev CW\\00016332\\wad_00016332\\KeyStoreAPI_00016332\\KeyStoreAPI_00016332\\Models\\User.cs",
+              "RelativeDocumentMoniker": "KeyStoreAPI_00016332\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\Bobur\\Desktop\\WebDev CW\\00016332\\wad_00016332\\KeyStoreAPI_00016332\\KeyStoreAPI_00016332\\Models\\User.cs",
+              "RelativeToolTip": "KeyStoreAPI_00016332\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T20:38:21.312Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Bobur\\Desktop\\WebDev CW\\00016332\\wad_00016332\\KeyStoreAPI_00016332\\KeyStoreAPI_00016332\\Program.cs",
+              "RelativeDocumentMoniker": "KeyStoreAPI_00016332\\Program.cs",
+              "ToolTip": "C:\\Users\\Bobur\\Desktop\\WebDev CW\\00016332\\wad_00016332\\KeyStoreAPI_00016332\\KeyStoreAPI_00016332\\Program.cs",
+              "RelativeToolTip": "KeyStoreAPI_00016332\\Program.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAABEAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T20:56:41.091Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserDto.cs",
+              "DocumentMoniker": "C:\\Users\\Bobur\\Desktop\\WebDev CW\\00016332\\wad_00016332\\KeyStoreAPI_00016332\\KeyStoreAPI_00016332\\DTOs\\UserDto.cs",
+              "RelativeDocumentMoniker": "KeyStoreAPI_00016332\\DTOs\\UserDto.cs",
+              "ToolTip": "C:\\Users\\Bobur\\Desktop\\WebDev CW\\00016332\\wad_00016332\\KeyStoreAPI_00016332\\KeyStoreAPI_00016332\\DTOs\\UserDto.cs",
+              "RelativeToolTip": "KeyStoreAPI_00016332\\DTOs\\UserDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAUAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T22:59:04.993Z"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "KeyStoresController.cs",
-              "DocumentMoniker": "C:\\Users\\Bobur\\source\\repos\\KeyStoreAPI_00016332\\KeyStoreAPI_00016332\\Controllers\\KeyStoresController.cs",
+              "DocumentMoniker": "C:\\Users\\Bobur\\Desktop\\WebDev CW\\00016332\\wad_00016332\\KeyStoreAPI_00016332\\KeyStoreAPI_00016332\\Controllers\\KeyStoresController.cs",
               "RelativeDocumentMoniker": "KeyStoreAPI_00016332\\Controllers\\KeyStoresController.cs",
-              "ToolTip": "C:\\Users\\Bobur\\source\\repos\\KeyStoreAPI_00016332\\KeyStoreAPI_00016332\\Controllers\\KeyStoresController.cs",
+              "ToolTip": "C:\\Users\\Bobur\\Desktop\\WebDev CW\\00016332\\wad_00016332\\KeyStoreAPI_00016332\\KeyStoreAPI_00016332\\Controllers\\KeyStoresController.cs",
               "RelativeToolTip": "KeyStoreAPI_00016332\\Controllers\\KeyStoresController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAEYAAAAAAAAAAAAAwEcAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-04T21:34:45.754Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 7,
               "Title": "UsersController.cs",
-              "DocumentMoniker": "C:\\Users\\Bobur\\source\\repos\\KeyStoreAPI_00016332\\KeyStoreAPI_00016332\\Controllers\\UsersController.cs",
+              "DocumentMoniker": "C:\\Users\\Bobur\\Desktop\\WebDev CW\\00016332\\wad_00016332\\KeyStoreAPI_00016332\\KeyStoreAPI_00016332\\Controllers\\UsersController.cs",
               "RelativeDocumentMoniker": "KeyStoreAPI_00016332\\Controllers\\UsersController.cs",
-              "ToolTip": "C:\\Users\\Bobur\\source\\repos\\KeyStoreAPI_00016332\\KeyStoreAPI_00016332\\Controllers\\UsersController.cs",
+              "ToolTip": "C:\\Users\\Bobur\\Desktop\\WebDev CW\\00016332\\wad_00016332\\KeyStoreAPI_00016332\\KeyStoreAPI_00016332\\Controllers\\UsersController.cs",
               "RelativeToolTip": "KeyStoreAPI_00016332\\Controllers\\UsersController.cs",
-              "ViewState": "AgIAAEwAAAAAAAAAAAAkwFQAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAkAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-04T21:29:07.76Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-04T21:29:07.76Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 10,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Bobur\\Desktop\\WebDev CW\\00016332\\wad_00016332\\KeyStoreAPI_00016332\\KeyStoreAPI_00016332\\Repositories\\IRepository.cs",
+              "RelativeDocumentMoniker": "KeyStoreAPI_00016332\\Repositories\\IRepository.cs",
+              "ToolTip": "C:\\Users\\Bobur\\Desktop\\WebDev CW\\00016332\\wad_00016332\\KeyStoreAPI_00016332\\KeyStoreAPI_00016332\\Repositories\\IRepository.cs",
+              "RelativeToolTip": "KeyStoreAPI_00016332\\Repositories\\IRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T21:40:13.78Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "KeyStoreRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Bobur\\Desktop\\WebDev CW\\00016332\\wad_00016332\\KeyStoreAPI_00016332\\KeyStoreAPI_00016332\\Repositories\\KeyStoreRepository.cs",
+              "RelativeDocumentMoniker": "KeyStoreAPI_00016332\\Repositories\\KeyStoreRepository.cs",
+              "ToolTip": "C:\\Users\\Bobur\\Desktop\\WebDev CW\\00016332\\wad_00016332\\KeyStoreAPI_00016332\\KeyStoreAPI_00016332\\Repositories\\KeyStoreRepository.cs",
+              "RelativeToolTip": "KeyStoreAPI_00016332\\Repositories\\KeyStoreRepository.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAA+wBUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T21:37:27.926Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "KeyStore.cs",
+              "DocumentMoniker": "C:\\Users\\Bobur\\Desktop\\WebDev CW\\00016332\\wad_00016332\\KeyStoreAPI_00016332\\KeyStoreAPI_00016332\\Models\\KeyStore.cs",
+              "RelativeDocumentMoniker": "KeyStoreAPI_00016332\\Models\\KeyStore.cs",
+              "ToolTip": "C:\\Users\\Bobur\\Desktop\\WebDev CW\\00016332\\wad_00016332\\KeyStoreAPI_00016332\\KeyStoreAPI_00016332\\Models\\KeyStore.cs",
+              "RelativeToolTip": "KeyStoreAPI_00016332\\Models\\KeyStore.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T20:39:11.824Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "KeyStoreDto.cs",
+              "DocumentMoniker": "C:\\Users\\Bobur\\Desktop\\WebDev CW\\00016332\\wad_00016332\\KeyStoreAPI_00016332\\KeyStoreAPI_00016332\\DTOs\\KeyStoreDto.cs",
+              "RelativeDocumentMoniker": "KeyStoreAPI_00016332\\DTOs\\KeyStoreDto.cs",
+              "ToolTip": "C:\\Users\\Bobur\\Desktop\\WebDev CW\\00016332\\wad_00016332\\KeyStoreAPI_00016332\\KeyStoreAPI_00016332\\DTOs\\KeyStoreDto.cs",
+              "RelativeToolTip": "KeyStoreAPI_00016332\\DTOs\\KeyStoreDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T22:59:18.835Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "C:\\Users\\Bobur\\Desktop\\WebDev CW\\00016332\\wad_00016332\\KeyStoreAPI_00016332\\KeyStoreAPI_00016332\\MappingProfiles\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "KeyStoreAPI_00016332\\MappingProfiles\\MappingProfile.cs",
+              "ToolTip": "C:\\Users\\Bobur\\Desktop\\WebDev CW\\00016332\\wad_00016332\\KeyStoreAPI_00016332\\KeyStoreAPI_00016332\\MappingProfiles\\MappingProfile.cs",
+              "RelativeToolTip": "KeyStoreAPI_00016332\\MappingProfiles\\MappingProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T23:01:50.712Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
               "Title": "20241204205700_Initial.cs",
-              "DocumentMoniker": "C:\\Users\\Bobur\\source\\repos\\KeyStoreAPI_00016332\\KeyStoreAPI_00016332\\Migrations\\20241204205700_Initial.cs",
+              "DocumentMoniker": "C:\\Users\\Bobur\\Desktop\\WebDev CW\\00016332\\wad_00016332\\KeyStoreAPI_00016332\\KeyStoreAPI_00016332\\Migrations\\20241204205700_Initial.cs",
               "RelativeDocumentMoniker": "KeyStoreAPI_00016332\\Migrations\\20241204205700_Initial.cs",
-              "ToolTip": "C:\\Users\\Bobur\\source\\repos\\KeyStoreAPI_00016332\\KeyStoreAPI_00016332\\Migrations\\20241204205700_Initial.cs",
+              "ToolTip": "C:\\Users\\Bobur\\Desktop\\WebDev CW\\00016332\\wad_00016332\\KeyStoreAPI_00016332\\KeyStoreAPI_00016332\\Migrations\\20241204205700_Initial.cs",
               "RelativeToolTip": "KeyStoreAPI_00016332\\Migrations\\20241204205700_Initial.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAmwBcAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-04T20:57:01.171Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-04T20:57:01.171Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Bobur\\source\\repos\\KeyStoreAPI_00016332\\KeyStoreAPI_00016332\\Program.cs",
-              "RelativeDocumentMoniker": "KeyStoreAPI_00016332\\Program.cs",
-              "ToolTip": "C:\\Users\\Bobur\\source\\repos\\KeyStoreAPI_00016332\\KeyStoreAPI_00016332\\Program.cs",
-              "RelativeToolTip": "KeyStoreAPI_00016332\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABBAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-04T20:56:41.091Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 14,
               "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\Bobur\\source\\repos\\KeyStoreAPI_00016332\\KeyStoreAPI_00016332\\appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Bobur\\Desktop\\WebDev CW\\00016332\\wad_00016332\\KeyStoreAPI_00016332\\KeyStoreAPI_00016332\\appsettings.json",
               "RelativeDocumentMoniker": "KeyStoreAPI_00016332\\appsettings.json",
-              "ToolTip": "C:\\Users\\Bobur\\source\\repos\\KeyStoreAPI_00016332\\KeyStoreAPI_00016332\\appsettings.json",
+              "ToolTip": "C:\\Users\\Bobur\\Desktop\\WebDev CW\\00016332\\wad_00016332\\KeyStoreAPI_00016332\\KeyStoreAPI_00016332\\appsettings.json",
               "RelativeToolTip": "KeyStoreAPI_00016332\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
@@ -113,11 +263,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 15,
               "Title": "appsettings.Development.json",
-              "DocumentMoniker": "C:\\Users\\Bobur\\source\\repos\\KeyStoreAPI_00016332\\KeyStoreAPI_00016332\\appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\Bobur\\Desktop\\WebDev CW\\00016332\\wad_00016332\\KeyStoreAPI_00016332\\KeyStoreAPI_00016332\\appsettings.Development.json",
               "RelativeDocumentMoniker": "KeyStoreAPI_00016332\\appsettings.Development.json",
-              "ToolTip": "C:\\Users\\Bobur\\source\\repos\\KeyStoreAPI_00016332\\KeyStoreAPI_00016332\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\Bobur\\Desktop\\WebDev CW\\00016332\\wad_00016332\\KeyStoreAPI_00016332\\KeyStoreAPI_00016332\\appsettings.Development.json",
               "RelativeToolTip": "KeyStoreAPI_00016332\\appsettings.Development.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
@@ -125,41 +275,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 16,
               "Title": "GeneralDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\Bobur\\source\\repos\\KeyStoreAPI_00016332\\KeyStoreAPI_00016332\\Data\\GeneralDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Bobur\\Desktop\\WebDev CW\\00016332\\wad_00016332\\KeyStoreAPI_00016332\\KeyStoreAPI_00016332\\Data\\GeneralDbContext.cs",
               "RelativeDocumentMoniker": "KeyStoreAPI_00016332\\Data\\GeneralDbContext.cs",
-              "ToolTip": "C:\\Users\\Bobur\\source\\repos\\KeyStoreAPI_00016332\\KeyStoreAPI_00016332\\Data\\GeneralDbContext.cs",
+              "ToolTip": "C:\\Users\\Bobur\\Desktop\\WebDev CW\\00016332\\wad_00016332\\KeyStoreAPI_00016332\\KeyStoreAPI_00016332\\Data\\GeneralDbContext.cs",
               "RelativeToolTip": "KeyStoreAPI_00016332\\Data\\GeneralDbContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-04T20:51:23.324Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "KeyStore.cs",
-              "DocumentMoniker": "C:\\Users\\Bobur\\source\\repos\\KeyStoreAPI_00016332\\KeyStoreAPI_00016332\\Models\\KeyStore.cs",
-              "RelativeDocumentMoniker": "KeyStoreAPI_00016332\\Models\\KeyStore.cs",
-              "ToolTip": "C:\\Users\\Bobur\\source\\repos\\KeyStoreAPI_00016332\\KeyStoreAPI_00016332\\Models\\KeyStore.cs",
-              "RelativeToolTip": "KeyStoreAPI_00016332\\Models\\KeyStore.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAjAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-04T20:39:11.824Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "User.cs",
-              "DocumentMoniker": "C:\\Users\\Bobur\\source\\repos\\KeyStoreAPI_00016332\\KeyStoreAPI_00016332\\Models\\User.cs",
-              "RelativeDocumentMoniker": "KeyStoreAPI_00016332\\Models\\User.cs",
-              "ToolTip": "C:\\Users\\Bobur\\source\\repos\\KeyStoreAPI_00016332\\KeyStoreAPI_00016332\\Models\\User.cs",
-              "RelativeToolTip": "KeyStoreAPI_00016332\\Models\\User.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAA8AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-04T20:38:21.312Z",
-              "EditorCaption": ""
             }
           ]
         }

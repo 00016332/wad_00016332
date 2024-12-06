@@ -7,6 +7,10 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using KeyStoreAPI_00016332.Data;
 using KeyStoreAPI_00016332.Models;
+using AutoMapper;
+using KeyStoreAPI_00016332.Repositories;
+using Swashbuckle.AspNetCore.Annotations;
+using KeyStoreAPI_00016332.DTOs;
 
 namespace KeyStoreAPI_00016332.Controllers
 {
@@ -14,95 +18,91 @@ namespace KeyStoreAPI_00016332.Controllers
     [ApiController]
     public class KeyStoresController : ControllerBase
     {
-        private readonly GeneralDbContext _context;
+        private readonly IRepository<KeyStore> _keyStoreRepository;
+        private readonly IMapper _mapper;
 
-        public KeyStoresController(GeneralDbContext context)
+        public KeyStoresController(IRepository<KeyStore> keyStoreRepository, IMapper mapper)
         {
-            _context = context;
+            _keyStoreRepository = keyStoreRepository;
+            _mapper = mapper;
         }
 
         // GET: api/KeyStores
         [HttpGet]
+        [SwaggerResponse(200, "Returns All Keys", typeof(IEnumerable<KeyStoreDto>))]
+        [SwaggerResponse(500, "Internal Server Error")]
         public async Task<ActionResult<IEnumerable<KeyStore>>> GetKeyStoreDbSet()
         {
-            return await _context.KeyStoreDbSet.ToListAsync();
+            var keyStores = await _keyStoreRepository.GetAllAsync();
+            var keyStoreDtos = _mapper.Map<IEnumerable<KeyStoreDto>>(keyStores);
+            return Ok(keyStoreDtos);
         }
 
         // GET: api/KeyStores/5
         [HttpGet("{id}")]
+        [SwaggerResponse(200, "Returns KeyStore", typeof(KeyStoreDto))]
+        [SwaggerResponse(400, "Bad Request")]
+        [SwaggerResponse(500, "Internal Server Error")]
         public async Task<ActionResult<KeyStore>> GetKeyStore(int id)
         {
-            var keyStore = await _context.KeyStoreDbSet.FindAsync(id);
-
+            var keyStore = await _keyStoreRepository.GetByIdAsync(id);
             if (keyStore == null)
             {
                 return NotFound();
             }
 
-            return keyStore;
+            var keyStoreDto = _mapper.Map<KeyStoreDto>(keyStore);
+            return Ok(keyStoreDto);
         }
 
         // PUT: api/KeyStores/5
         // To protect from overposting attacks, see https://go.microsoft.com/fwlink/?linkid=2123754
         [HttpPut("{id}")]
-        public async Task<IActionResult> PutKeyStore(int id, KeyStore keyStore)
+        [SwaggerResponse(204, "No Content")]
+        [SwaggerResponse(400, "Bad Request")]
+        [SwaggerResponse(500, "Internal Server Error")]
+        public async Task<IActionResult> PutKeyStore(int id, KeyStoreDto keyStoreDto)
         {
-            if (id != keyStore.Id)
+            if (id != keyStoreDto.Id)
             {
                 return BadRequest();
             }
 
-            _context.Entry(keyStore).State = EntityState.Modified;
-
-            try
-            {
-                await _context.SaveChangesAsync();
-            }
-            catch (DbUpdateConcurrencyException)
-            {
-                if (!KeyStoreExists(id))
-                {
-                    return NotFound();
-                }
-                else
-                {
-                    throw;
-                }
-            }
-
+            var keyStore = _mapper.Map<KeyStore>(keyStoreDto);
+            await _keyStoreRepository.UpdateAsync(keyStore);
             return NoContent();
         }
 
         // POST: api/KeyStores
         // To protect from overposting attacks, see https://go.microsoft.com/fwlink/?linkid=2123754
         [HttpPost]
-        public async Task<ActionResult<KeyStore>> PostKeyStore(KeyStore keyStore)
+        [SwaggerResponse(201, "Returns KeyStore", typeof(KeyStoreDto))]
+        [SwaggerResponse(400, "Bad Request")]
+        [SwaggerResponse(500, "Internal Server Error")]
+        public async Task<ActionResult<KeyStore>> PostKeyStore(KeyStoreDto keyStoreDto)
         {
-            _context.KeyStoreDbSet.Add(keyStore);
-            await _context.SaveChangesAsync();
-
-            return CreatedAtAction("GetKeyStore", new { id = keyStore.Id }, keyStore);
+            var keyStore = _mapper.Map<KeyStore>(keyStoreDto);
+            await _keyStoreRepository.CreateAsync(keyStore);
+            var createdKeyStoreDto = _mapper.Map<KeyStoreDto>(keyStore);
+            return CreatedAtAction(nameof(GetKeyStore), new { id = createdKeyStoreDto.Id }, createdKeyStoreDto);
         }
 
         // DELETE: api/KeyStores/5
         [HttpDelete("{id}")]
+        [SwaggerResponse(204, "No Content")]
+        [SwaggerResponse(400, "Bad Request")]
+        [SwaggerResponse(500, "Internal Server Error")]
         public async Task<IActionResult> DeleteKeyStore(int id)
         {
-            var keyStore = await _context.KeyStoreDbSet.FindAsync(id);
+            var keyStore = await _keyStoreRepository.GetByIdAsync(id);
             if (keyStore == null)
             {
                 return NotFound();
             }
 
-            _context.KeyStoreDbSet.Remove(keyStore);
-            await _context.SaveChangesAsync();
-
+            await _keyStoreRepository.DeleteAsync(id);
             return NoContent();
         }
 
-        private bool KeyStoreExists(int id)
-        {
-            return _context.KeyStoreDbSet.Any(e => e.Id == id);
-        }
     }
 }

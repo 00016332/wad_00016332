@@ -10,7 +10,7 @@ namespace KeyStoreAPI_00016332.Models
         [Column(TypeName = "nvarchar(255)")]
         [Obsolete]
         [Required]
-        public required string Username { get; set; }
+        public  string Username { get; set; }
         [Required]
         public string Password { get; set; }
 

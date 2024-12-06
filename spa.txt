@@ -1,0 +1,3 @@
+angular
+ngx-toastr https://www.npmjs.com/package/ngx-toastr
+rxjs
